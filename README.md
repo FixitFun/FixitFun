@@ -1,42 +1,42 @@
 
 <div id="header" align="center">
-  <img src="https://fontmeme.com/temporary/ece44b41407cabd6f620b55b9bc42371.png" alt="Hi there!">
+  <img src="https://fontmeme.com/temporary/deb4fbfd300ee123ce0c2a43080a5d6a.png" alt="Hi there!">
   <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
 </div>
 <h1>
-  <img src="https://fontmeme.com/temporary/e99c38afe9d4c685f76ba14516533d44.png" alt="Welcome to my github page">
+  <img src="https://fontmeme.com/temporary/6e2294cba5cd37cd149e1ff3e6271fb6.png" alt="Welcome to my github page">
 </h1>
 <div align="left">
  <img src="https://media.tenor.com/gFDT7Ic6BdkAAAAi/pixel-sitting.gif" width="500" height="500">
-<img src="https://fontmeme.com/temporary/123f824cdd3ef3e664f4650db170214e.png" alt="Hello">
+<img src="https://fontmeme.com/temporary/4e3fc96ac9baf49a8758996b14ee9048.png" alt="Hello">
 </div>
 
 ---
 
 <div align="center">
-<img src="https://fontmeme.com/temporary/2c295229e2d80c0ead49ddc62113830e.png" alt="About me">
+<img src="https://fontmeme.com/temporary/bb6314e7412c19c9cf86ee547979ea1f.png" alt="About me">
   <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
 </div>
   <div align="left">
     <h2>
- <img src="https://fontmeme.com/temporary/b08a169eab6c213c30db93d4c30ec81a.png" alt="I am a C++ Developer">
+ <img src="https://fontmeme.com/temporary/aec4f061ae9743a340ea5bd4e3883e69.png" alt="I am a C++ Developer">
  </h2> 
 
-- <img src="https://fontmeme.com/temporary/94958b2cad53b483dc56b313e1e627be.png" alt="Knowledge: At Jun's level for now">  <img src="https://media1.tenor.com/m/hwAbymO0O4EAAAAC/plip-walk.gif" width="20">
+- <img src="https://fontmeme.com/temporary/64a56c3addd2c56c9910e99fad50a242.png" alt="Knowledge: At Jun's level for now">  <img src="https://media1.tenor.com/m/hwAbymO0O4EAAAAC/plip-walk.gif" width="20">
 
-- <img src="https://fontmeme.com/temporary/94958b2cad53b483dc56b313e1e627be.png" alt="Knowledge: At Jun's level for now">  <img src="https://media1.tenor.com/m/hwAbymO0O4EAAAAC/plip-walk.gif" width="20">
+- <img src="https://fontmeme.com/temporary/64a56c3addd2c56c9910e99fad50a242.png" alt="Knowledge: At Jun's level for now">  <img src="https://media1.tenor.com/m/hwAbymO0O4EAAAAC/plip-walk.gif" width="20">
 
-- <img src="https://fontmeme.com/temporary/94958b2cad53b483dc56b313e1e627be.png" alt="Knowledge: At Jun's level for now">  <img src="https://media1.tenor.com/m/hwAbymO0O4EAAAAC/plip-walk.gif" width="20">
+- <img src="https://fontmeme.com/temporary/64a56c3addd2c56c9910e99fad50a242.png" alt="Knowledge: At Jun's level for now">  <img src="https://media1.tenor.com/m/hwAbymO0O4EAAAAC/plip-walk.gif" width="20">
   
-- <img src="https://fontmeme.com/temporary/94958b2cad53b483dc56b313e1e627be.png" alt="Knowledge: At Jun's level for now">  <img src="https://media1.tenor.com/m/hwAbymO0O4EAAAAC/plip-walk.gif" width="20">
+- <img src="https://fontmeme.com/temporary/64a56c3addd2c56c9910e99fad50a242.png" alt="Knowledge: At Jun's level for now">  <img src="https://media1.tenor.com/m/hwAbymO0O4EAAAAC/plip-walk.gif" width="20">
 
-- <img src="https://fontmeme.com/temporary/94958b2cad53b483dc56b313e1e627be.png" alt="Knowledge: At Jun's level for now">  <img src="https://media1.tenor.com/m/hwAbymO0O4EAAAAC/plip-walk.gif" width="20">
+- <img src="https://fontmeme.com/temporary/64a56c3addd2c56c9910e99fad50a242.png" alt="Knowledge: At Jun's level for now">  <img src="https://media1.tenor.com/m/hwAbymO0O4EAAAAC/plip-walk.gif" width="20">
 </div>
 
 
 ---
 <div align="center">
-<img src="https://fontmeme.com/temporary/cee69c1bbb61f2a30aeacf6ad66fa85b.png" alt="Languages ​​and Tools">
+<img src="https://fontmeme.com/temporary/39e2594082cd8b32366d9c464013799f.png" alt="Languages ​​and Tools">
   <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
 <h3></h3>
   <div align="left">
@@ -56,7 +56,7 @@
 ---
 
 <div align="center">
-<img src="https://fontmeme.com/temporary/86a9ab4028799a2654c02472d573baba.png" alt="My Stats">
+<img src="https://fontmeme.com/temporary/5562733de3629e9c3c925cbbfb11b26a.png" alt="My Stats">
   <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
 </div>
 <h4></h4>
