@@ -20,7 +20,7 @@
 </div>
   <div align="left">
     
-<img src="https://gifius.ru/instruments/gif_animator/server/php/files/f4r8nnj3f62noer9besasd03h6/3-no-bg-preview%20(carve.photos).png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=I%20am%20a%20C%2B%2B%20and%20Game%20Developer%20and%20also%20an%20indie%20developer&box=underswap&character=none&size=2&t=1743768220" alt="I am a C++ and Game Developer">
+<img src="https://gifius.ru/instruments/gif_animator/server/php/files/f4r8nnj3f62noer9besasd03h6/3-no-bg-preview%20(carve.photos).png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=I%20am%20a%20C%2B%2B%20and%20Game%20Developer%0Aand%20also%20an%20indie%20developer&box=underswap&character=none&size=2&t=1743767945" alt="Knowledge: At Jun's level for now">
  
 
 <img src="https://gifius.ru/instruments/gif_animator/server/php/files/f4r8nnj3f62noer9besasd03h6/3-no-bg-preview%20(carve.photos).png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=I%20am%20a%20C%2B%2B%20and%20Game%20Developer%0Aand%20also%20an%20indie%20developer&box=underswap&character=none&size=2&t=1743767945" alt="Knowledge: At Jun's level for now">  
@@ -29,9 +29,9 @@
 
 <img src="https://gifius.ru/instruments/gif_animator/server/php/files/f4r8nnj3f62noer9besasd03h6/3-no-bg-preview%20(carve.photos).png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=I%20am%20a%20C%2B%2B%20and%20Game%20Developer%0Aand%20also%20an%20indie%20developer&box=underswap&character=none&size=2&t=1743767945" alt="Knowledge: At Jun's level for now">  
   
-<img src="https://gifius.ru/instruments/gif_animator/server/php/files/f4r8nnj3f62noer9besasd03h6/3-no-bg-preview%20(carve.photos).png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=Knowledge%3A%20At%20Jun%27s%20level%20for%20now&box=underswap&character=none&size=2&t=1743768841" alt="Knowledge: At Jun's level for now">  
+<img src="https://gifius.ru/instruments/gif_animator/server/php/files/f4r8nnj3f62noer9besasd03h6/3-no-bg-preview%20(carve.photos).png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=I%20am%20a%20C%2B%2B%20and%20Game%20Developer%0Aand%20also%20an%20indie%20developer&box=underswap&character=none&size=2&t=1743767945" alt="Knowledge: At Jun's level for now">  
 
-<img src="https://gifius.ru/instruments/gif_animator/server/php/files/f4r8nnj3f62noer9besasd03h6/3-no-bg-preview%20(carve.photos).png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=Knowledge%3A%20At%20Jun%27s%20level%20for%20now&box=underswap&character=none&size=2&t=1743768841" alt="Knowledge: At Jun's level for now">  
+<img src="https://gifius.ru/instruments/gif_animator/server/php/files/f4r8nnj3f62noer9besasd03h6/3-no-bg-preview%20(carve.photos).png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=I%20am%20a%20C%2B%2B%20and%20Game%20Developer%0Aand%20also%20an%20indie%20developer&box=underswap&character=none&size=2&t=1743767945" alt="Knowledge: At Jun's level for now">
 </div>
 
 
