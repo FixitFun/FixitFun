@@ -36,7 +36,7 @@
 
 ---
 <div align="center">
-<img src="https://fontmeme.com/temporary/39e2594082cd8b32366d9c464013799f.png" alt="Languages ​​and Tools">
+<img src="https://fontmeme.com/temporary/1b874f9ebf120f5e4fc4afc2d2d2ae79.png" alt="Languages ​​and Tools">
   <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
 <h3></h3>
   <div align="left">
