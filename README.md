@@ -16,11 +16,12 @@
 <div align="center">
 <img src="https://fontmeme.com/temporary/bb6314e7412c19c9cf86ee547979ea1f.png" alt="About me">
   <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
+  <h4></h4> 
 </div>
   <div align="left">
-    <h2>
+    
  <img src="https://fontmeme.com/temporary/aec4f061ae9743a340ea5bd4e3883e69.png" alt="I am a C++ Developer">
- </h2> 
+ 
 
 - <img src="https://fontmeme.com/temporary/64a56c3addd2c56c9910e99fad50a242.png" alt="Knowledge: At Jun's level for now">  <img src="https://media1.tenor.com/m/hwAbymO0O4EAAAAC/plip-walk.gif" width="20">
 
