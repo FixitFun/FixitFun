@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://fontmeme.com/temporary/deb4fbfd300ee123ce0c2a43080a5d6a.png" alt="Hi there!">
+  <img src="https://fontmeme.com/temporary/3ec01c91b22b03c03bb4914cc9cf656f.png" alt="Hi there!">
   <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
 </div>
 <h1>
@@ -20,18 +20,18 @@
 </div>
   <div align="left">
     
- <img src="https://fontmeme.com/temporary/aec4f061ae9743a340ea5bd4e3883e69.png" alt="I am a C++ Developer">
+<img src="https://gifius.ru/instruments/gif_animator/server/php/files/f4r8nnj3f62noer9besasd03h6/3-no-bg-preview%20(carve.photos).png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=I%20am%20a%20C%2B%2B%20and%20Game%20Developer%20and%20also%20an%20indie%20developer&box=underswap&character=none&size=2&t=1743768220" alt="I am a C++ and Game Developer">
  
 
-- <img src="https://fontmeme.com/temporary/64a56c3addd2c56c9910e99fad50a242.png" alt="Knowledge: At Jun's level for now">  <img src="https://media1.tenor.com/m/hwAbymO0O4EAAAAC/plip-walk.gif" width="20">
+<img src="https://gifius.ru/instruments/gif_animator/server/php/files/f4r8nnj3f62noer9besasd03h6/3-no-bg-preview%20(carve.photos).png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=I%20am%20a%20C%2B%2B%20and%20Game%20Developer%0Aand%20also%20an%20indie%20developer&box=underswap&character=none&size=2&t=1743767945" alt="Knowledge: At Jun's level for now">  
 
-- <img src="https://fontmeme.com/temporary/64a56c3addd2c56c9910e99fad50a242.png" alt="Knowledge: At Jun's level for now">  <img src="https://media1.tenor.com/m/hwAbymO0O4EAAAAC/plip-walk.gif" width="20">
+<img src="https://gifius.ru/instruments/gif_animator/server/php/files/f4r8nnj3f62noer9besasd03h6/3-no-bg-preview%20(carve.photos).png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=I%20am%20a%20C%2B%2B%20and%20Game%20Developer%0Aand%20also%20an%20indie%20developer&box=underswap&character=none&size=2&t=1743767945" alt="Knowledge: At Jun's level for now">  
 
-- <img src="https://fontmeme.com/temporary/64a56c3addd2c56c9910e99fad50a242.png" alt="Knowledge: At Jun's level for now">  <img src="https://media1.tenor.com/m/hwAbymO0O4EAAAAC/plip-walk.gif" width="20">
+<img src="https://gifius.ru/instruments/gif_animator/server/php/files/f4r8nnj3f62noer9besasd03h6/3-no-bg-preview%20(carve.photos).png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=I%20am%20a%20C%2B%2B%20and%20Game%20Developer%0Aand%20also%20an%20indie%20developer&box=underswap&character=none&size=2&t=1743767945" alt="Knowledge: At Jun's level for now">  
   
-- <img src="https://fontmeme.com/temporary/64a56c3addd2c56c9910e99fad50a242.png" alt="Knowledge: At Jun's level for now">  <img src="https://media1.tenor.com/m/hwAbymO0O4EAAAAC/plip-walk.gif" width="20">
+<img src="https://gifius.ru/instruments/gif_animator/server/php/files/f4r8nnj3f62noer9besasd03h6/3-no-bg-preview%20(carve.photos).png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=Knowledge%3A%20At%20Jun%27s%20level%20for%20now&box=underswap&character=none&size=2&t=1743768841" alt="Knowledge: At Jun's level for now">  
 
-- <img src="https://fontmeme.com/temporary/64a56c3addd2c56c9910e99fad50a242.png" alt="Knowledge: At Jun's level for now">  <img src="https://media1.tenor.com/m/hwAbymO0O4EAAAAC/plip-walk.gif" width="20">
+<img src="https://gifius.ru/instruments/gif_animator/server/php/files/f4r8nnj3f62noer9besasd03h6/3-no-bg-preview%20(carve.photos).png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=Knowledge%3A%20At%20Jun%27s%20level%20for%20now&box=underswap&character=none&size=2&t=1743768841" alt="Knowledge: At Jun's level for now">  
 </div>
 
 
@@ -67,9 +67,9 @@
   <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
 </div>
 <h4></h4>
-<div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=FixitFun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FixitFun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+
 
 ###
