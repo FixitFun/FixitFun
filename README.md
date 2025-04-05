@@ -1,5 +1,6 @@
 
 <div id="header" align="center">
+  <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
   <img src="https://fontmeme.com/temporary/3ec01c91b22b03c03bb4914cc9cf656f.png" alt="Hi there!">
   <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
 </div>
@@ -14,29 +15,31 @@
 ---
 
 <div align="center">
+  <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
 <img src="https://fontmeme.com/temporary/bb6314e7412c19c9cf86ee547979ea1f.png" alt="About me">
   <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
   <h4></h4> 
 </div>
   <div align="left">
     
-<img src="https://gifius.ru/instruments/gif_animator/server/php/files/f4r8nnj3f62noer9besasd03h6/3-no-bg-preview%20(carve.photos).png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=I%20am%20a%20C%2B%2B%20and%20Game%20Developer%0Aand%20also%20an%20indie%20developer&box=underswap&character=none&size=2&t=1743767945" alt="Knowledge: At Jun's level for now">
+<img src="https://gifius.ru/instruments/gif_animator/server/php/files/f4r8nnj3f62noer9besasd03h6/3-no-bg-preview%20(carve.photos).png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=I%20im%20a%20C%2B%2B%20and%20Game%20Developer%20and%20also%20an%20indie%20developer&box=undertale&character=none&size=2&t=1743865846" alt="Knowledge: At Jun's level for now">
  
+<!-- -->
+<img src="https://img.icons8.com/pixels/64/question-mark.png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=How%20long%20have%20you%20been%20developing%3F&box=undertale&character=none&size=2&t=1743865911" alt="Knowledge: At Jun's level for now">  
 
-<img src="https://gifius.ru/instruments/gif_animator/server/php/files/f4r8nnj3f62noer9besasd03h6/3-no-bg-preview%20(carve.photos).png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=I%20am%20a%20C%2B%2B%20and%20Game%20Developer%0Aand%20also%20an%20indie%20developer&box=underswap&character=none&size=2&t=1743767945" alt="Knowledge: At Jun's level for now">  
-
-<img src="https://gifius.ru/instruments/gif_animator/server/php/files/f4r8nnj3f62noer9besasd03h6/3-no-bg-preview%20(carve.photos).png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=I%20am%20a%20C%2B%2B%20and%20Game%20Developer%0Aand%20also%20an%20indie%20developer&box=underswap&character=none&size=2&t=1743767945" alt="Knowledge: At Jun's level for now">  
-
-<img src="https://gifius.ru/instruments/gif_animator/server/php/files/f4r8nnj3f62noer9besasd03h6/3-no-bg-preview%20(carve.photos).png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=I%20am%20a%20C%2B%2B%20and%20Game%20Developer%0Aand%20also%20an%20indie%20developer&box=underswap&character=none&size=2&t=1743767945" alt="Knowledge: At Jun's level for now">  
+<img src="https://gifius.ru/instruments/gif_animator/server/php/files/f4r8nnj3f62noer9besasd03h6/3-no-bg-preview%20(carve.photos).png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=I%20have%20been%20developing%20for%201%20year%20already&box=undertale&character=none&size=2&t=1743865968" alt="Knowledge: At Jun's level for now">  
+<!-- -->
+<img src="https://img.icons8.com/pixels/64/question-mark.png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=Do%20you%20have%20any%20other%20hobbies%20besides%20programming%3F&box=undertale&character=none&size=2&t=1743866059" alt="Knowledge: At Jun's level for now">  
   
-<img src="https://gifius.ru/instruments/gif_animator/server/php/files/f4r8nnj3f62noer9besasd03h6/3-no-bg-preview%20(carve.photos).png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=I%20am%20a%20C%2B%2B%20and%20Game%20Developer%0Aand%20also%20an%20indie%20developer&box=underswap&character=none&size=2&t=1743767945" alt="Knowledge: At Jun's level for now">  
-
-<img src="https://gifius.ru/instruments/gif_animator/server/php/files/f4r8nnj3f62noer9besasd03h6/3-no-bg-preview%20(carve.photos).png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=I%20am%20a%20C%2B%2B%20and%20Game%20Developer%0Aand%20also%20an%20indie%20developer&box=underswap&character=none&size=2&t=1743767945" alt="Knowledge: At Jun's level for now">
+<img src="https://gifius.ru/instruments/gif_animator/server/php/files/f4r8nnj3f62noer9besasd03h6/3-no-bg-preview%20(carve.photos).png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=I%20also%20do%20sports%20and%20self-development&box=undertale&character=none&size=2&t=1743866131" alt="Knowledge: At Jun's level for now">  
+<!-- -->
+<img src="https://img.icons8.com/pixels/64/question-mark.png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=Ok%2C%20thanks%20for%20the%20answers.&box=undertale&character=none&size=2&t=1743866190" alt="Knowledge: At Jun's level for now">
 </div>
 
 
 ---
 <div align="center">
+  <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
 <img src="https://fontmeme.com/temporary/1b874f9ebf120f5e4fc4afc2d2d2ae79.png" alt="Languages ​​and Tools">
   <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
 <h3></h3>
@@ -63,6 +66,7 @@
 ---
 
 <div align="center">
+  <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
 <img src="https://fontmeme.com/temporary/5562733de3629e9c3c925cbbfb11b26a.png" alt="My Stats">
   <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
 </div>
