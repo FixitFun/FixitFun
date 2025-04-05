@@ -5,18 +5,18 @@
   <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
 </div>
 <h1>
-  <img src="https://fontmeme.com/temporary/6e2294cba5cd37cd149e1ff3e6271fb6.png" alt="Welcome to my github page">
+  <img src="https://fontmeme.com/permalink/250405/6e2294cba5cd37cd149e1ff3e6271fb6.png" alt="Welcome to my github page">
 </h1>
 <div align="left">
  <img src="https://media.tenor.com/gFDT7Ic6BdkAAAAi/pixel-sitting.gif" width="500" height="500">
-<img src="https://fontmeme.com/temporary/4e3fc96ac9baf49a8758996b14ee9048.png" alt="Hello">
+<img src="https://fontmeme.com/permalink/250405/e9d182a688ebed950f927215e7f0e044.png" alt="Hello">
 </div>
 
 ---
 
 <div align="center">
   <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
-<img src="https://fontmeme.com/temporary/bb6314e7412c19c9cf86ee547979ea1f.png" alt="About me">
+<img src="https://fontmeme.com/permalink/250405/f3653bb6793ed8edeed65ee938844182.png" alt="About me">
   <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
   <h4></h4> 
 </div>
@@ -40,7 +40,7 @@
 ---
 <div align="center">
   <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
-<img src="https://fontmeme.com/temporary/1b874f9ebf120f5e4fc4afc2d2d2ae79.png" alt="Languages ​​and Tools">
+<img src="https://fontmeme.com/permalink/250405/dd9c29f87354517141eff3f4815fec3e.png" alt="Languages ​​and Tools">
   <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
 <h3></h3>
   <div align="left">
@@ -67,7 +67,7 @@
 
 <div align="center">
   <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
-<img src="https://fontmeme.com/temporary/5562733de3629e9c3c925cbbfb11b26a.png" alt="My Stats">
+<img src="https://fontmeme.com/permalink/250405/2a35864c910fb6d89230976176dab804.png" alt="My Stats">
   <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
 </div>
 <h4></h4>
