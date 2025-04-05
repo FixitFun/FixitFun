@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
-  <img src="https://fontmeme.com/temporary/3ec01c91b22b03c03bb4914cc9cf656f.png" alt="Hi there!">
+  <img src="https://fontmeme.com/permalink/250405/2b6005f309aed9585bb677f8e2723b7c.png" alt="Hi there!"> 
   <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
 </div>
 <h1>
