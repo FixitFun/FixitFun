@@ -33,7 +33,7 @@
   
 <img src="https://gifius.ru/instruments/gif_animator/server/php/files/f4r8nnj3f62noer9besasd03h6/3-no-bg-preview%20(carve.photos).png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=I%20also%20do%20sports%20and%20self-development&box=undertale&character=none&size=2&t=1743866131" alt="Knowledge: At Jun's level for now">  
 <!-- -->
-<img src="https://img.icons8.com/pixels/64/question-mark.png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=Ok%2C%20thanks%20for%20the%20answers.&box=undertale&character=none&size=2&t=1743866190" alt="Knowledge: At Jun's level for now">
+<img src="https://img.icons8.com/pixels/64/question-mark.png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.png?text=Ok%2C%20thanks%20for%20the%20answers.&box=undertale&character=none&size=2&t=1743868547" alt="Knowledge: At Jun's level for now">
 </div>
 
 
