@@ -1,8 +1,8 @@
 
 <div id="header" align="center">
-  <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
+  
   <img src="https://fontmeme.com/permalink/250405/2b6005f309aed9585bb677f8e2723b7c.png" alt="Hi there!"> 
-  <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
+  
 </div>
 <h1>
   <img src="https://fontmeme.com/permalink/250405/6e2294cba5cd37cd149e1ff3e6271fb6.png" alt="Welcome to my github page">
@@ -15,9 +15,9 @@
 ---
 
 <div align="center">
-  <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
+  
 <img src="https://fontmeme.com/permalink/250405/f3653bb6793ed8edeed65ee938844182.png" alt="About me">
-  <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
+  
   <h4></h4> 
 </div>
   <div align="left">
@@ -39,9 +39,9 @@
 
 ---
 <div align="center">
-  <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
+  
 <img src="https://fontmeme.com/permalink/250405/e414140c40ea25abb43ede0e8d10c284.png" alt="Languages ​​and Tools">
-  <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
+  
 <h3></h3>
   <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="60">
@@ -66,9 +66,9 @@
 ---
 
 <div align="center">
-  <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
+  
 <img src="https://fontmeme.com/permalink/250405/2a35864c910fb6d89230976176dab804.png" alt="My Stats">
-  <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5baad694bac5d0e7638bea5f773d6774920d4b751402e1b3ba633b51faefe4b5.gif" width="70">
+  
 </div>
 <h4></h4>
 
