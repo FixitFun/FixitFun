@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
   
   <img src="https://fontmeme.com/permalink/250405/2b6005f309aed9585bb677f8e2723b7c.png" alt="Hi there!"> 
@@ -22,7 +21,7 @@
 </div>
   <div align="left">
     
-<img src="https://gifius.ru/instruments/gif_animator/server/php/files/f4r8nnj3f62noer9besasd03h6/3-no-bg-preview%20(carve.photos).png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=I%20im%20a%20C%2B%2B%20and%20Game%20Developer%20and%20also%20an%20indie%20developer&box=undertale&character=none&size=2&t=1743865846" alt="Knowledge: At Jun's level for now">
+<img src="https://ibb.co/3mRtF7hS" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=I%20im%20a%20C%2B%2B%20and%20Game%20Developer%20and%20also%20an%20indie%20developer&box=undertale&character=none&size=2&t=1743865846" alt="Knowledge: At Jun's level for now">
  
 <!-- -->
 <img src="https://img.icons8.com/pixels/64/question-mark.png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=Knowledge%3A%20At%20Jun%27s%20level%20for%20now&box=undertale&character=none&size=2&t=1743868680" alt="Knowledge: At Jun's level for now">  
@@ -46,6 +45,7 @@
   <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60" title="C#">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="60" title="unity">
+<!-- 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" width="60" title="redis">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" title="mysql">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" title="figma">
@@ -59,7 +59,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="60" title="bash">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="60" title="blender">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" title="css3">
-                             
+-->                        
   </div>
 </div>
 
