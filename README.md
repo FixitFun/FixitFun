@@ -1,45 +1,45 @@
 <div id="header" align="center">
   
-  <img src="https://fontmeme.com/permalink/250405/2b6005f309aed9585bb677f8e2723b7c.png" alt="Hi there!"> 
+  <img src="https://fontmeme.com/permalink/250520/8533045e2a32b6d1f7d064ece27b49f5.png" alt="Hi there!"> 
   
 </div>
 <h1>
-  <img src="https://fontmeme.com/permalink/250405/6e2294cba5cd37cd149e1ff3e6271fb6.png" alt="Welcome to my github page">
+  <img src="https://fontmeme.com/permalink/250520/785f7265a01c49589da7bf30e6e72a02.png" alt="Welcome to my github page">
 </h1>
 <div align="left">
  <img src="https://media.tenor.com/gFDT7Ic6BdkAAAAi/pixel-sitting.gif" width="500" height="500">
-<img src="https://fontmeme.com/permalink/250405/4e3fc96ac9baf49a8758996b14ee9048.png" alt="Hello">
+<img src="https://fontmeme.com/permalink/250520/0c3ffe96d696f85a80a4a01096a1ca27.png" alt="Hi">
 </div>
 
 ---
 
 <div align="center">
   
-<img src="https://fontmeme.com/permalink/250405/f3653bb6793ed8edeed65ee938844182.png" alt="About me">
+<img src="https://fontmeme.com/permalink/250520/f2b48f875963ab169d65ea7c4bfb1d8f.png" alt="About me">
   
   <h4></h4> 
 </div>
   <div align="left">
     
-<img src="https://i.ibb.co/3mRtF7hS/3-no-bg-preview-carve-photos.png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=I%20am%20an%20indie%20developer%20on%20Unity&box=undertale&character=none&size=2&t=1746775347" alt="Knowledge: At Jun's level for now">
+<img src="https://i.ibb.co/3mRtF7hS/3-no-bg-preview-carve-photos.png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=Im%20am%20an%20indie%20developer%20on%20Unity&box=deltarune&boxcolor=000000&character=none&size=2&t=1747720463" alt="Knowledge: At Jun's level for now">
  
 <!-- -->
-<img src="https://img.icons8.com/pixels/64/question-mark.png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=Knowledge%3A%20At%20Jun%27s%20level%20for%20now&box=undertale&character=none&size=2&t=1743868680" alt="Knowledge: At Jun's level for now">  
+<img src="https://img.icons8.com/pixels/64/question-mark.png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=Knowledge%3A%20At%20Jun%27s%20level%20for%20now&box=deltarune&boxcolor=000000&character=none&size=2&t=1747720511" alt="Knowledge: At Jun's level for now">  
 
-<img src="https://i.ibb.co/3mRtF7hS/3-no-bg-preview-carve-photos.png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=I%20have%20been%20developing%20for%201%20year%20already&box=undertale&character=none&size=2&t=1743865968" alt="Knowledge: At Jun's level for now">  
+<img src="https://i.ibb.co/3mRtF7hS/3-no-bg-preview-carve-photos.png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=I%20have%20been%20developing%20for%201%20year%20already&box=deltarune&boxcolor=000000&character=none&size=2&t=1747720619" alt="Knowledge: At Jun's level for now">  
 <!-- -->
-<img src="https://img.icons8.com/pixels/64/question-mark.png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=Do%20you%20have%20any%20other%20hobbies%20besides%20programming%3F&box=undertale&character=none&size=2&t=1743866059" alt="Knowledge: At Jun's level for now">  
+<img src="https://img.icons8.com/pixels/64/question-mark.png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=Do%20you%20have%20any%20other%20hobbies%20besides%20programming%3F&box=deltarune&boxcolor=000000&character=none&size=2&t=1747720714" alt="Knowledge: At Jun's level for now">  
   
-<img src="https://i.ibb.co/3mRtF7hS/3-no-bg-preview-carve-photos.png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=I%20also%20do%20sports%20and%20self-development&box=undertale&character=none&size=2&t=1743866131" alt="Knowledge: At Jun's level for now">  
+<img src="https://i.ibb.co/3mRtF7hS/3-no-bg-preview-carve-photos.png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=A%20also%20do%20sports%20and%20self-development&box=deltarune&boxcolor=000000&character=none&size=2&t=1747720782" alt="Knowledge: At Jun's level for now">  
 <!-- -->
-<img src="https://img.icons8.com/pixels/64/question-mark.png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.png?text=Ok%2C%20thanks%20for%20the%20answers.&box=undertale&character=none&size=2&t=1743868547" alt="Knowledge: At Jun's level for now">
+<img src="https://img.icons8.com/pixels/64/question-mark.png" width="100"> <img src="https://www.demirramon.com/gen/undertale_text_box.gif?text=Ok%20thanks%20for%20the%20answers&box=deltarune&boxcolor=000000&character=none&size=2&t=1747720833" alt="Knowledge: At Jun's level for now">
 </div>
 
 
 ---
 <div align="center">
   
-<img src="https://fontmeme.com/permalink/250405/e414140c40ea25abb43ede0e8d10c284.png" alt="Languages ​​and Tools">
+<img src="https://fontmeme.com/permalink/250520/9176b43cdcea5a6fa16b48cfd5645631.png" alt="Languages ​​and Tools">
   
 <h3></h3>
   <div align="left">
@@ -67,7 +67,7 @@
 
 <div align="center">
   
-<img src="https://fontmeme.com/permalink/250405/2a35864c910fb6d89230976176dab804.png" alt="My Stats">
+<img src="https://fontmeme.com/permalink/250520/958f68be0fcf09fc9719805166630c7b.png" alt="My Stats">
   
 </div>
 <h4></h4>
