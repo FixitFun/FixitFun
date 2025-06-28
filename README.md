@@ -18,53 +18,30 @@
 <img src="https://www.demirramon.com/gen/undertale_text_box.png?text=%20About%20me&box=deltarune&boxcolor=000000&character=custom&expression=https%3A%2F%2Fwww.demirramon.com%2Fmedia%2Fundertale%2Fchar%2Ftemp%2Fexpressions%2F1751121414_4510.png&asterisk=ffffff&size=2&style=darkworld&t=1751121415" alt="About me">
 </div>
 
-<h1></h1>
+
+
+### :shipit: Let's goooo
 
 ```python
-print("Hello, World!")
+print(r"""
+ _   _      _ _         __        __         _     _ 
+| | | | ___| | | ___    \ \      / /__  _ __| | __| |
+| |_| |/ _ \ | |/ _ \    \ \ /\ / / _ \| '__| |/ _` |
+|  _  |  __/ | | (_) |    \ V  V / (_) | |  | | (_| |
+|_| |_|\___|_|_|\___( )    \_/\_/ \___/|_|  |_|\__,_|
+                    |/                                
+""")
 
-class Developer:
-    def __init__(self):
-        self.name = "Чуваааак"
-        self.stack = ["Python", "Go", "Lua", "C", "JavaScript"]
-        self.role = "Инди-разработчик"
-        self.focus = [
-            "Геймдев", 
-            "Моддинг-платформы", 
-            "Форензика", 
-            "Низкоуровневое программирование",
-            "Автоматизация"
-        ]
-        self.projects = {
-            "Crazy-Ride": "Кооперативная игра на Unity с системным управлением грузовиком",
-            "GMod 2.0": "Собственная игровая песочница с LuaJIT и сервером на Go",
-            "Сайт-портфолио": "Интерактивная винтажная ОС с элементами SCP/FNAF"
-        }
+def about_me():
+    print("My nickname is FixitFun - I'm a handyman programmer.")
+    print("I like to write code that works, I don't like to write code that doesn't work.")
+    print("Working with stack: Python, Go, Lua, C, JavaScript.")
+    print("I'm interested in gamdev, viruses and forensics.")
+    print("I create my own projects based on my story)")
+    print("I love spaghetti with mushrooms and mushroom sauce)")
 
-    def philosophy(self):
-        return "Код — это инструмент мышления. Простота — не про лень, а про ясность."
-
-    def say_hello(self):
-        print(f"Hello, World! I'm {self.name}, and I'm building weird, powerful things alone.")
-
-    def run(self):
-        self.say_hello()
-        print("🔧 Стек:", ", ".join(self.stack))
-        print("🚧 Проекты в работе:")
-        for name, desc in self.projects.items():
-            print(f" - {name}: {desc}")
-        print("🧠 Мотто:", self.philosophy())
-
-if __name__ == "__main__":
-    dev = Developer()
-    dev.run()
+about_me()
 ```
-
-| колонка 1    | колонка 2    | колонка 3    |
-| ------------ | ------------ | ------------ |
-| значение 1.1 | значение 2.1 | значение 3.1 |
-| значение 1.2 | значение 2.2 | значение 3.2 |
-| значение 1.3 | значение 2.3 | значение 3.3 |
 
 ---
 
@@ -72,7 +49,9 @@ if __name__ == "__main__":
   
 <img src="https://www.demirramon.com/gen/undertale_text_box.png?text=%20Languages%20and%20Tools&box=deltarune&boxcolor=000000&character=custom&expression=https%3A%2F%2Fwww.demirramon.com%2Fmedia%2Fundertale%2Fchar%2Ftemp%2Fexpressions%2F1751121414_4510.png&asterisk=ffffff&size=2&style=darkworld&t=1751121717" alt="Languages ​​and Tools">
 </div>  
-<h2></h2>
+
+### :goberserk: <-- (It's me)
+
 <table>
   <tr>
     <td align="center">
