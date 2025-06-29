@@ -67,7 +67,7 @@ about_me()
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" title="C">
     </td>
     <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" title="JS">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="60" title="Dart">
     </td>
     <td align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="60" title="Bash">
@@ -103,6 +103,9 @@ about_me()
   <td align="center">
   <img src="https://www.svgrepo.com/show/306796/steam.svg" width="60" title="Steam">
   </td>   
+  <td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="60" title="Godot">
+  </td>
  </tr>   
 </table> 
 
