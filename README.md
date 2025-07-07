@@ -67,7 +67,7 @@ about_me()
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" title="C">
     </td>
     <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="60" title="Dart">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="60" title="Rust">
     </td>
     <td align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="60" title="Bash">
@@ -106,6 +106,21 @@ about_me()
   <td align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="60" title="Godot">
   </td>
+  <td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="60" title="Blender">
+  </td>
+  <td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" width="60" title="Linux">
+  </td>
+  <td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="60" title="Markdown">
+  </td>
+   <td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="60" title="Neovim">
+  </td>
+  <td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60" title="Postgresql">
+  </td> 
  </tr>   
 </table> 
 
