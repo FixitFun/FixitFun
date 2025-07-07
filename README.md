@@ -1,7 +1,5 @@
 <div id="header" align="center">
-  
- <img src ="https://www.demirramon.com/gen/undertale_text_box.png?text=%20Hi%20there%0A%20Welcome%20to%20my%20github%20page&box=deltarune&boxcolor=000000&character=custom&expression=https%3A%2F%2Fwww.demirramon.com%2Fmedia%2Fundertale%2Fchar%2Ftemp%2Fexpressions%2F1751121414_4510.png&asterisk=ffffff&size=2&style=darkworld&t=1751121519"> 
-  
+<img src ="https://www.demirramon.com/gen/undertale_text_box.png?text=%20Hi%20there%0A%20Welcome%20to%20my%20github%20page&box=deltarune&boxcolor=000000&character=custom&expression=https%3A%2F%2Fwww.demirramon.com%2Fmedia%2Fundertale%2Fchar%2Ftemp%2Fexpressions%2F1751121414_4510.png&asterisk=ffffff&size=2&style=darkworld&t=1751121519"> 
 </div>
 
 ---
@@ -13,12 +11,11 @@
 
 ---
 
-
 <div align="center">  
 <img src="https://www.demirramon.com/gen/undertale_text_box.png?text=%20About%20me&box=deltarune&boxcolor=000000&character=custom&expression=https%3A%2F%2Fwww.demirramon.com%2Fmedia%2Fundertale%2Fchar%2Ftemp%2Fexpressions%2F1751121414_4510.png&asterisk=ffffff&size=2&style=darkworld&t=1751121415" alt="About me">
 </div>
 
-
+![Alt Text](https://media.tenor.com/faLugVnYq3UAAAAi/red-eyes.gif)
 
 ### :shipit: Let's goooo
 
@@ -36,7 +33,7 @@ def about_me():
     print("My nickname is FixitFun - I'm a handyman programmer.")
     print("I like to write code that works, I don't like to write code that doesn't work.")
     print("Working with stack: Python, Go, Lua, C, Rust.")
-    print("I'm interested in gamdev, viruses and forensics.")
+    print("I'm interested in gamedev, viruses and forensics.")
     print("I create my own projects based on my story)")
     print("I love spaghetti with mushrooms and mushroom sauce)")
 
@@ -46,83 +43,41 @@ about_me()
 ---
 
 <div align="center">
-  
 <img src="https://www.demirramon.com/gen/undertale_text_box.png?text=%20Languages%20and%20Tools&box=deltarune&boxcolor=000000&character=custom&expression=https%3A%2F%2Fwww.demirramon.com%2Fmedia%2Fundertale%2Fchar%2Ftemp%2Fexpressions%2F1751121414_4510.png&asterisk=ffffff&size=2&style=darkworld&t=1751121717" alt="Languages ​​and Tools">
-</div>  
+</div> 
 
-### :goberserk: <-- (It's me)
+### Programming languages
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-plain.svg" width="60" title="Lua">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" title="Python">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" title="C">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="60" title="GO">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="60" title="Rust">
+</div>
 
-<table>
-  <tr>
-    <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-plain.svg" width="60" title="Lua">
-    </td>
-    <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="60" title="GO">
-    </td>
-    <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" title="Python">
-    </td>
-    <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" title="C">
-    </td>
-    <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="60" title="Rust">
-    </td>
-    <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="60" title="Bash">
-    </td>
-    <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="60" title="Powershell">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" title="HTML">
-</td>
-<td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" title="CSS3">
-</td>
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="60" title="Archlinux">
-</td>
-    <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60" title="Docker">
-</td>
-    <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" title="Git">
-</td>
-    <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" title="Mysql">
-</td>
-    <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="60" title="Kubernetes">
-    </td>
-  </tr>
-  <tr>
-  <td align="center">
-  <img src="https://www.svgrepo.com/show/306796/steam.svg" width="60" title="Steam">
-  </td>   
-  <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="60" title="Godot">
-  </td>
-  <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="60" title="Blender">
-  </td>
-  <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" width="60" title="Linux">
-  </td>
-  <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="60" title="Markdown">
-  </td>
-   <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="60" title="Neovim">
-  </td>
-  <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60" title="Postgresql">
-  </td> 
- </tr>   
-</table> 
+### Gamedev
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="60" title="Godot">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="60" title="Blender">
+</div>
+
+### Other
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" title="HTML">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" title="CSS3">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="60" title="Archlinux">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" title="Git">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" title="Mysql">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="60" title="Markdown">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="60" title="Neovim">
+<img src="https://www.svgrepo.com/show/306796/steam.svg" width="60" title="Steam">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60" title="Postgresql">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="60" title="Bash">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="60" title="Powershell">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60" title="Docker">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="60" title="Kubernetes">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" width="60" title="Linux">
+</div>
 
 ---
 
