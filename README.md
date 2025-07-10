@@ -52,7 +52,7 @@ about_me()
 ![Skill icons](https://skillicons.dev/icons?i=godot,blender,figma,ps)
 
 ### Other
-![Skill icons](https://skillicons.dev/icons?i=htmx,tailwind,markdown,bash,powershell,arch,linux,git,postgresql,docker,neovim,obsidian)
+![Skill icons](https://skillicons.dev/icons?i=htmx,tailwind,markdown,bash,powershell,arch,linux,windows,postgresql,git,docker,neovim,obsidian)
 
 ---
 
