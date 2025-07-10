@@ -31,7 +31,7 @@ def about_me():
     print("My nickname is FixitFun - I'm a handyman programmer.")
     print("I like to write code that works, I don't like to write code that doesn't work.")
     print("Working with stack: Python, Go, Lua, C++, Solidity.")
-    print("I'm interested in gamedev, Blockchain, AI/ML")
+    print("I'm interested in Gamedev, Blockchain, AI/ML")
     print("I create my own projects based on my story)")
     print("I love spaghetti with mushrooms and mushroom sauce)")
 
