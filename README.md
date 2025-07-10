@@ -61,7 +61,7 @@ about_me()
 <img src="https://www.demirramon.com/gen/undertale_text_box.png?text=%20My%20stats&box=deltarune&boxcolor=000000&character=custom&expression=https%3A%2F%2Fwww.demirramon.com%2Fmedia%2Fundertale%2Fchar%2Ftemp%2Fexpressions%2F1751121414_4510.png&asterisk=ffffff&size=2&style=darkworld&t=1751122756" alt="My Stats">
   
 </div>
-<h4></h4>
+
 
 ### 📈 GitHub Activity Graph:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FixitFun&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
