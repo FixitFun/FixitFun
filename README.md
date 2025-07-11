@@ -49,10 +49,10 @@ about_me()
 ![Skill icons](https://skillicons.dev/icons?i=cpp,python,lua,go,solidity)
 
 ### Gamedev
-![Skill icons](https://skillicons.dev/icons?i=godot,blender,figma,ps)
+![Skill icons](https://skillicons.dev/icons?i=godot,blender,figma)
 
 ### Other
-![Skill icons](https://skillicons.dev/icons?i=htmx,tailwind,markdown,bash,powershell,arch,linux,windows,postgresql,git,docker,neovim,obsidian)
+![Skill icons](https://skillicons.dev/icons?i=astro,alpinejs,html,css,tailwind,markdown,bash,powershell,arch,linux,windows,postgresql,git,docker,neovim,obsidian)
 
 ---
 
