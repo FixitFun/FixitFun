@@ -44,15 +44,23 @@ about_me()
 <img src="https://www.demirramon.com/gen/undertale_text_box.png?text=%20Languages%20and%20Tools&box=deltarune&boxcolor=000000&character=custom&expression=https%3A%2F%2Fwww.demirramon.com%2Fmedia%2Fundertale%2Fchar%2Ftemp%2Fexpressions%2F1751121414_4510.png&asterisk=ffffff&size=2&style=darkworld&t=1751121717" alt="Languages ​​and Tools">
 </div> 
 
-### Programming languages
-
+### Programming languages 
 ![Skill icons](https://skillicons.dev/icons?i=cpp,python,lua,go,solidity)
 
 ### Gamedev
 ![Skill icons](https://skillicons.dev/icons?i=godot,blender,figma)
 
+### AI/ML
+![Skill icons](https://skillicons.dev/icons?i=python,tensorflow)
+
+### Web (Poked it a couple of times)
+![Skill icons](https://skillicons.dev/icons?i=vite,vitest,lit,html,css)
+
+### Interests
+![Skill icons](https://skillicons.dev/icons?i=bash,powershell,linux,windows)
+
 ### Other
-![Skill icons](https://skillicons.dev/icons?i=vite,lit,html,css,markdown,bash,powershell,arch,linux,windows,postgresql,git,docker,neovim,obsidian)
+![Skill icons](https://skillicons.dev/icons?i=markdown,arch,supabase,git,docker,neovim,obsidian)
 
 ---
 
