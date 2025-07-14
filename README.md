@@ -51,7 +51,7 @@ about_me()
 ![Skill icons](https://skillicons.dev/icons?i=godot,blender,figma)
 
 ### AI/ML
-![Skill icons](https://skillicons.dev/icons?i=python,tensorflow)
+![Skill icons](https://skillicons.dev/icons?i=python,tensorflow,opencv)
 
 ### Web (Poked it a couple of times)
 ![Skill icons](https://skillicons.dev/icons?i=vite,vitest,lit,ts,html,css)
@@ -60,7 +60,7 @@ about_me()
 ![Skill icons](https://skillicons.dev/icons?i=bash,powershell,linux,windows)
 
 ### Other
-![Skill icons](https://skillicons.dev/icons?i=markdown,arch,supabase,git,docker,neovim,obsidian,vercel)
+![Skill icons](https://skillicons.dev/icons?i=markdown,arch,supabase,git,docker,neovim,obsidian,vercel,cloudflare,githubactions)
 
 ---
 
