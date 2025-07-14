@@ -54,7 +54,7 @@ about_me()
 ![Skill icons](https://skillicons.dev/icons?i=python,tensorflow)
 
 ### Web (Poked it a couple of times)
-![Skill icons](https://skillicons.dev/icons?i=vite,vitest,lit,html,css)
+![Skill icons](https://skillicons.dev/icons?i=vite,vitest,lit,ts,html,css)
 
 ### Interests
 ![Skill icons](https://skillicons.dev/icons?i=bash,powershell,linux,windows)
