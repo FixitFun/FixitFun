@@ -60,7 +60,7 @@ about_me()
 ![Skill icons](https://skillicons.dev/icons?i=bash,powershell,linux,windows)
 
 ### Other
-![Skill icons](https://skillicons.dev/icons?i=markdown,arch,supabase,git,docker,neovim,obsidian)
+![Skill icons](https://skillicons.dev/icons?i=markdown,arch,supabase,git,docker,neovim,obsidian,vercel)
 
 ---
 
