@@ -54,7 +54,7 @@ about_me()
 ![Skill icons](https://skillicons.dev/icons?i=python,tensorflow,opencv)
 
 ### Web (Poked it a couple of times)
-![Skill icons](https://skillicons.dev/icons?i=vite,vitest,lit,ts,html,css)
+![Skill icons](https://skillicons.dev/icons?i=js,html,css)
 
 ### Interests
 ![Skill icons](https://skillicons.dev/icons?i=bash,powershell,linux,windows)
@@ -75,5 +75,5 @@ about_me()
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FixitFun&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FixitFun&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FixitFun&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FixitFun&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FixitFun&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FixitFun&theme=nord_dark)
