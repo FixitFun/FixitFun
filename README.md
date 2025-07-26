@@ -45,7 +45,7 @@ about_me()
 </div> 
 
 ### Programming languages 
-![Skill icons](https://skillicons.dev/icons?i=cpp,python,r,go,solidity)
+![Skill icons](https://skillicons.dev/icons?i=cpp,python,rust,go,solidity)
 
 ### Gamedev
 ![Skill icons](https://skillicons.dev/icons?i=godot,blender,pr)
