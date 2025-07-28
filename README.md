@@ -48,7 +48,7 @@ about_me()
 ![Skill icons](https://skillicons.dev/icons?i=cpp,python,rust,go,solidity)
 
 ### Gamedev
-![Skill icons](https://skillicons.dev/icons?i=godot,blender,pr)
+![Skill icons](https://skillicons.dev/icons?i=godot,blender)
 
 ### AI/ML
 ![Skill icons](https://skillicons.dev/icons?i=python,tensorflow,opencv)
