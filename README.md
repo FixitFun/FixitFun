@@ -45,22 +45,22 @@ about_me()
 </div> 
 
 ### Programming languages 
-![Skill icons](https://skillicons.dev/icons?i=cpp,python,rust,go,solidity)
+![Skill icons](https://skillicons.dev/icons?i=cpp,python,rust,ts,solidity,)
 
 ### Gamedev
-![Skill icons](https://skillicons.dev/icons?i=godot,blender)
+![Skill icons](https://skillicons.dev/icons?i=godot,blender,)
 
 ### AI/ML
-![Skill icons](https://skillicons.dev/icons?i=python,tensorflow,opencv)
+![Skill icons](https://skillicons.dev/icons?i=python,tensorflow,opencv,)
 
 ### Web (Poked it a couple of times)
-![Skill icons](https://skillicons.dev/icons?i=lit,ts,go,html)
+![Skill icons](https://skillicons.dev/icons?i=lit,ts,nodejs,nginx,supabase,html,css,)
 
 ### Interests
-![Skill icons](https://skillicons.dev/icons?i=bash,powershell,linux,windows,lua)
+![Skill icons](https://skillicons.dev/icons?i=bash,powershell,linux,windows,)
 
 ### Other
-![Skill icons](https://skillicons.dev/icons?i=markdown,arch,supabase,git,docker,neovim,obsidian,vercel,cloudflare,githubactions,github)
+![Skill icons](https://skillicons.dev/icons?i=markdown,lua,arch,git,docker,neovim,obsidian,vercel,cloudflare,githubactions,github,)
 
 ---
 
