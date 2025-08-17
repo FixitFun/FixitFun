@@ -45,7 +45,7 @@ about_me()
 </div> 
 
 ### Programming languages 
-![Skill icons](https://skillicons.dev/icons?i=cpp,python,rust,ts,solidity,)
+![Skill icons](https://skillicons.dev/icons?i=cpp,python,rust,ts,haskell,matlab,julia)
 
 ### Gamedev
 ![Skill icons](https://skillicons.dev/icons?i=godot,blender,)
@@ -60,7 +60,7 @@ about_me()
 ![Skill icons](https://skillicons.dev/icons?i=bash,powershell,linux,windows,)
 
 ### Other
-![Skill icons](https://skillicons.dev/icons?i=markdown,lua,arch,git,docker,neovim,obsidian,vercel,cloudflare,githubactions,github,)
+![Skill icons](https://skillicons.dev/icons?i=markdown,lua,arch,git,docker,neovim,obsidian,vercel,cloudflare,githubactions,github,arduino,raspberrypi)
 
 ---
 
