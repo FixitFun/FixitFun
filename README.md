@@ -57,10 +57,10 @@ about_me()
 ![Skill icons](https://skillicons.dev/icons?i=lit,ts,python,fastapi,nginx,supabase,html,css,)
 
 ### Interests
-![Skill icons](https://skillicons.dev/icons?i=bash,powershell,linux,windows,)
+![Skill icons](https://skillicons.dev/icons?i=bash,powershell,linux,windows,arduino,raspberrypi)
 
 ### Other
-![Skill icons](https://skillicons.dev/icons?i=markdown,lua,arch,git,docker,neovim,obsidian,vercel,githubactions,github,arduino,raspberrypi)
+![Skill icons](https://skillicons.dev/icons?i=markdown,lua,arch,git,docker,neovim,obsidian,vercel,githubactions,github,)
 
 ---
 
