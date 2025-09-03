@@ -45,22 +45,22 @@ about_me()
 </div> 
 
 ### Programming languages 
-![Skill icons](https://skillicons.dev/icons?i=rust,cpp,python,ts,lua)
+[![Skills](https://skills.syvixor.com/api/icons?i=rust,cpp,lua,crystal,typescript)](https://github.com/syvixor/skills-icons)
 
 ### Gamedev
-![Skill icons](https://skillicons.dev/icons?i=godot,blender,)
-
-### AI/ML
-![Skill icons](https://skillicons.dev/icons?i=python,tensorflow,opencv,)
+[![Skills](https://skills.syvixor.com/api/icons?i=godot,blender,steam,gimp)](https://github.com/syvixor/skills-icons)
 
 ### Web (Poked it a couple of times)
-![Skill icons](https://skillicons.dev/icons?i=lit,ts,python,fastapi,nginx,supabase,html,css,)
+[![Skills](https://skills.syvixor.com/api/icons?i=astro,ts,crystal,nginx,supabase,html,css3)](https://github.com/syvixor/skills-icons)
+
+### Tools
+[![Skills](https://skills.syvixor.com/api/icons?i=visualstudiocode,clion,sublime,git,gitbash,github,githubactions,codeberg,firefox)](https://github.com/syvixor/skills-icons)
 
 ### Interests
-![Skill icons](https://skillicons.dev/icons?i=bash,powershell,linux,windows,arduino,raspberrypi)
+[![Skills](https://skills.syvixor.com/api/icons?i=bash,powershell,linux,windows,arduino,raspberrypi)](https://github.com/syvixor/skills-icons)
 
 ### Other
-![Skill icons](https://skillicons.dev/icons?i=markdown,arch,git,docker,neovim,obsidian,vercel,githubactions,github,)
+[![Skills](https://skills.syvixor.com/api/icons?i=markdown,assembly,archlinux,docker,obsidian,vercel,stackoverflow,reddit,telegram,vite,codeforces,leetcode)](https://github.com/syvixor/skills-icons)
 
 ---
 
