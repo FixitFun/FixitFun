@@ -51,16 +51,16 @@ about_me()
 [![Skills](https://skills.syvixor.com/api/icons?i=godot,blender,steam,gimp)](https://github.com/syvixor/skills-icons)
 
 ### Web (Poked it a couple of times)
-[![Skills](https://skills.syvixor.com/api/icons?i=astro,ts,crystal,nginx,supabase,html,css3)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=crystal,nginx,postgresql,redis,html,css3)](https://github.com/syvixor/skills-icons)
 
 ### Tools
-[![Skills](https://skills.syvixor.com/api/icons?i=visualstudiocode,clion,sublime,git,gitbash,github,githubactions,codeberg,firefox)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=visualstudiocode,clion,sublime,git,gitbash,github,githubactions,codeberg,firefox,balenaetcher,penpot)](https://github.com/syvixor/skills-icons)
 
 ### Interests
 [![Skills](https://skills.syvixor.com/api/icons?i=bash,powershell,linux,windows,arduino,raspberrypi)](https://github.com/syvixor/skills-icons)
 
 ### Other
-[![Skills](https://skills.syvixor.com/api/icons?i=markdown,assembly,archlinux,docker,obsidian,vercel,stackoverflow,reddit,telegram,vite,codeforces,leetcode)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=markdown,assembly,archlinux,docker,obsidian,vercel,stackoverflow,reddit,telegram,codeforces,leetcode,polars)](https://github.com/syvixor/skills-icons)
 
 ---
 
