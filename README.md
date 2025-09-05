@@ -20,16 +20,11 @@
 I’m a **Roblox game developer (for now)**, but my path is not limited to this.  
 I’m working on my own projects and gradually building a technology stack that helps me go far beyond a single platform.  
 
----
-
-## My Interests
 - Currently, my main focus is on developing games on the Roblox platform, but in the future, I plan to move to other platforms (such as Godot).  
 - At the same time, I’m developing my skills in web (mostly backend) and brushing up on some frontend basics (mainly HTML/CSS).  
 - Besides that, in my free time, I’m interested in IoT, robotics, systems programming, and languages like Rust, C++, and Zig.  
 
----
-
-## Contacts
+**Contacts**
 - Site: [https://my-website-beta-gilt-80.vercel.app/]
  
 
