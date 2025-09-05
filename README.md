@@ -17,26 +17,22 @@
 
 ### :shipit: Let's goooo
 
-```python
-print(r"""
- _   _      _ _         __        __         _     _ 
-| | | | ___| | | ___    \ \      / /__  _ __| | __| |
-| |_| |/ _ \ | |/ _ \    \ \ /\ / / _ \| '__| |/ _` |
-|  _  |  __/ | | (_) |    \ V  V / (_) | |  | | (_| |
-|_| |_|\___|_|_|\___( )    \_/\_/ \___/|_|  |_|\__,_|
-                    |/                                
-""")
+I’m a **Roblox game developer (for now)**, but my path is not limited to this.  
+I’m working on my own projects and gradually building a technology stack that helps me go far beyond a single platform.  
 
-def about_me():
-    print("My nickname is FixitFun - I'm a handyman programmer.")
-    print("I like to write code that works, I don't like to write code that doesn't work.")
-    print("Working with stack: Python, Go, Lua, C++, Solidity.")
-    print("I'm interested in Gamedev, Blockchain, AI/ML")
-    print("I create my own projects based on my story)")
-    print("I love spaghetti with mushrooms and mushroom sauce)")
+---
 
-about_me()
-```
+## My Interests
+- Currently, my main focus is on developing games on the Roblox platform, but in the future, I plan to move to other platforms (such as Godot).  
+- At the same time, I’m developing my skills in web (mostly backend) and brushing up on some frontend basics (mainly HTML/CSS).  
+- Besides that, in my free time, I’m interested in IoT, robotics, systems programming, and languages like Rust, C++, and Zig.  
+
+---
+
+## Contacts
+- Site: [https://my-website-beta-gilt-80.vercel.app/]
+ 
+
 
 ---
 
