@@ -4,9 +4,8 @@
 
 ---
 
-<div align="left">
+<div align="center">
  <img src="https://media.tenor.com/gFDT7Ic6BdkAAAAi/pixel-sitting.gif" width="500" height="500">
-<img src="https://fontmeme.com/permalink/250520/0c3ffe96d696f85a80a4a01096a1ca27.png" alt="Hi">
 </div>
 
 ---
