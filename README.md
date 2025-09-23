@@ -1,17 +1,13 @@
 <div id="header" align="center">
-<img src ="https://www.demirramon.com/gen/undertale_text_box.png?text=%20Hi%20there%0A%20Welcome%20to%20my%20github%20page&box=deltarune&boxcolor=000000&character=custom&expression=https%3A%2F%2Fwww.demirramon.com%2Fmedia%2Fundertale%2Fchar%2Ftemp%2Fexpressions%2F1751121414_4510.png&asterisk=ffffff&size=2&style=darkworld&t=1751121519"> 
+<img src ="https://www.demirramon.com/gen/undertale_text_box.png?text=Hi%20there%0AWelcome%20to%20my%20page&box=deltarune&character=custom&expression=https%3A%2F%2Fdemirramon-media.s3.us-east-2.amazonaws.com%2Fundertale%2Fchar%2Ftemp%2Fexpressions%2F1758650708_4105.png&size=2&t=1758650774"> 
 </div>
 
----
 
-<div align="center">
- <img src="https://media.tenor.com/gFDT7Ic6BdkAAAAi/pixel-sitting.gif" width="500" height="500">
-</div>
 
 ---
 
 <div align="center">  
-<img src="https://www.demirramon.com/gen/undertale_text_box.png?text=%20About%20me&box=deltarune&boxcolor=000000&character=custom&expression=https%3A%2F%2Fwww.demirramon.com%2Fmedia%2Fundertale%2Fchar%2Ftemp%2Fexpressions%2F1751121414_4510.png&asterisk=ffffff&size=2&style=darkworld&t=1751121415" alt="About me">
+<img src="https://www.demirramon.com/gen/undertale_text_box.png?text=About%20me&box=deltarune&character=custom&expression=https%3A%2F%2Fdemirramon-media.s3.us-east-2.amazonaws.com%2Fundertale%2Fchar%2Ftemp%2Fexpressions%2F1758650708_4105.png&size=2&t=1758651146" alt="About me">
 </div>
 
 ### :shipit: Let's goooo
@@ -31,7 +27,7 @@ I’m working on my own projects and gradually building a technology stack that 
 ---
 
 <div align="center">
-<img src="https://www.demirramon.com/gen/undertale_text_box.png?text=%20Languages%20and%20Tools&box=deltarune&boxcolor=000000&character=custom&expression=https%3A%2F%2Fwww.demirramon.com%2Fmedia%2Fundertale%2Fchar%2Ftemp%2Fexpressions%2F1751121414_4510.png&asterisk=ffffff&size=2&style=darkworld&t=1751121717" alt="Languages ​​and Tools">
+<img src="https://www.demirramon.com/gen/undertale_text_box.png?text=Languages%20and%20Tools&box=deltarune&character=custom&expression=https%3A%2F%2Fdemirramon-media.s3.us-east-2.amazonaws.com%2Fundertale%2Fchar%2Ftemp%2Fexpressions%2F1758650708_4105.png&size=2&t=1758651120" alt="Languages ​​and Tools">
 </div> 
 
 ### Programming languages 
@@ -56,7 +52,7 @@ I’m working on my own projects and gradually building a technology stack that 
 
 <div align="center">
   
-<img src="https://www.demirramon.com/gen/undertale_text_box.png?text=%20My%20stats&box=deltarune&boxcolor=000000&character=custom&expression=https%3A%2F%2Fwww.demirramon.com%2Fmedia%2Fundertale%2Fchar%2Ftemp%2Fexpressions%2F1751121414_4510.png&asterisk=ffffff&size=2&style=darkworld&t=1751122756" alt="My Stats">
+<img src="https://www.demirramon.com/gen/undertale_text_box.png?text=My%20stats&box=deltarune&character=custom&expression=https%3A%2F%2Fdemirramon-media.s3.us-east-2.amazonaws.com%2Fundertale%2Fchar%2Ftemp%2Fexpressions%2F1758650708_4105.png&size=2&t=1758651074" alt="My Stats">
   
 </div>
 
