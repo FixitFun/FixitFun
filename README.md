@@ -34,7 +34,7 @@ I’m working on my own projects and gradually building a technology stack that 
 [![Skills](https://skills.syvixor.com/api/icons?i=rust,cpp,zig,lua,crystal)](https://github.com/syvixor/skills-icons)
 
 ### Gamedev
-[![My Skills](https://skillicons.dev/icons?i=robloxstudio,blender&theme=light)](https://skillicons.dev)
+[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=aseprite,blender,godot)](https://github.com/syvixor/skills-icons)
 
 ### Web (Poked it a couple of times)
 [![Skills](https://skills.syvixor.com/api/icons?i=crystal,nginx,postgresql,redis,html,css3)](https://github.com/syvixor/skills-icons)
@@ -46,7 +46,7 @@ I’m working on my own projects and gradually building a technology stack that 
 [![Skills](https://skills.syvixor.com/api/icons?i=bash,powershell,linux,windows,arduino,raspberrypi)](https://github.com/syvixor/skills-icons)
 
 ### Other
-[![Skills](https://skills.syvixor.com/api/icons?i=markdown,assembly,archlinux,docker,obsidian,vercel,stackoverflow,reddit,telegram,codeforces,leetcode,polars)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=markdown,assembly,archlinux,docker,obsidian,vercel,stackoverflow,reddit,telegram,obs,codeforces,leetcode,polars)](https://github.com/syvixor/skills-icons)
 
 ---
 
