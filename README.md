@@ -31,7 +31,7 @@ I’m working on my own projects and gradually building a technology stack that 
 </div> 
 
 ### Programming languages 
-[![Skills](https://skills.syvixor.com/api/icons?i=rust,cpp,zig,lua,crystal)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=cpp,lua,crystal)](https://github.com/syvixor/skills-icons)
 
 ### Gamedev
 [![Skills](https://skills.syvixor.com/api/icons?perline=15&i=aseprite,blender,godot)](https://github.com/syvixor/skills-icons)
