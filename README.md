@@ -31,16 +31,16 @@ I’m working on my own projects and gradually building a technology stack that 
 </div> 
 
 ### Programming languages 
-[![Skills](https://skills.syvixor.com/api/icons?i=cpp,rust,lua,golang,crystal)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=rust,csharp,lua,python,crystal,golang)](https://github.com/syvixor/skills-icons)
 
 ### Gamedev
-[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=aseprite,blender,godot)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=aseprite,blender,godot,unity)](https://github.com/syvixor/skills-icons)
 
 ### Web (Poked it a couple of times)
 [![Skills](https://skills.syvixor.com/api/icons?i=crystal,nginx,postgresql,redis,html,css3)](https://github.com/syvixor/skills-icons)
 
 ### Tools
-[![Skills](https://skills.syvixor.com/api/icons?i=clion,goland,zed,neovim,sublime,git,gitbash,github,githubactions,codeberg,balenaetcher,penpot,ghostty,librepcb)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=clion,zed,vscodium,neovim,sublime,git,gitbash,github,githubactions,codeberg,balenaetcher,penpot,ghostty,librepcb)](https://github.com/syvixor/skills-icons)
 
 ### Interests
 [![Skills](https://skills.syvixor.com/api/icons?i=bash,powershell,linux,windows,arduino,raspberrypi)](https://github.com/syvixor/skills-icons)
