@@ -40,7 +40,7 @@ I’m working on my own projects and gradually building a technology stack that 
 [![Skills](https://skills.syvixor.com/api/icons?i=crystal,nginx,postgresql,redis,html,css3)](https://github.com/syvixor/skills-icons)
 
 ### Tools
-[![Skills](https://skills.syvixor.com/api/icons?i=clion,zed,vscodium,neovim,sublime,git,gitbash,github,githubactions,codeberg,balenaetcher,penpot,ghostty,librepcb)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=datagrip,rider,zed,vscodium,neovim,sublime,git,gitbash,github,githubactions,codeberg,balenaetcher,penpot,ghostty,librepcb)](https://github.com/syvixor/skills-icons)
 
 ### Interests
 [![Skills](https://skills.syvixor.com/api/icons?i=bash,powershell,linux,windows,arduino,raspberrypi)](https://github.com/syvixor/skills-icons)
