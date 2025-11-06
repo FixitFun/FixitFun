@@ -12,12 +12,11 @@
 
 ### :shipit: Let's goooo
 
-I’m a **Roblox game developer (for now)**, but my path is not limited to this.  
-I’m working on my own projects and gradually building a technology stack that helps me go far beyond a single platform.  
+I’m passionate about **systems programming, game development, robotics, and IoT** — I’m building a technology stack that lets me work across multiple platforms.
 
-- Currently, my main focus is on developing games on the Roblox platform, but in the future, I plan to move to other platforms (such as Godot).  
-- At the same time, I’m developing my skills in web (mostly backend) and brushing up on some frontend basics (mainly HTML/CSS).  
-- Besides that, in my free time, I’m interested in IoT, robotics, systems programming, and languages like Rust, C++, and Zig.  
+I plan to expand to other engines and platforms in the future (for example, Godot).
+
+My favorite language is **Rust**, and my favorite scripting language is **Lua**.
 
 **Contacts**
 - Site: [https://my-website-beta-gilt-80.vercel.app/]
@@ -33,20 +32,11 @@ I’m working on my own projects and gradually building a technology stack that 
 ### Programming languages 
 [![Skills](https://skills.syvixor.com/api/icons?i=rust,csharp,lua,python,crystal)](https://github.com/syvixor/skills-icons)
 
-### Gamedev
-[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=aseprite,blender,godot,unity)](https://github.com/syvixor/skills-icons)
+### I had experience && I actively use it
+[![Skills](https://skills.syvixor.com/api/icons?i=datagrip,rider,zed,vscodium,neovim,sublime,git,gitbash,gitea,github,githubactions,codeberg,aseprite,blender,godot,unity,nginx,postgresql,redis,html,css3,obsidian,vercel,stackoverflow,reddit,telegram,obs,codeforces,markdown,balenaetcher,penpot,ghostty,archlinux)](https://github.com/syvixor/skills-icons)
 
-### Web (Poked it a couple of times)
-[![Skills](https://skills.syvixor.com/api/icons?i=crystal,nginx,postgresql,redis,html,css3)](https://github.com/syvixor/skills-icons)
-
-### Tools
-[![Skills](https://skills.syvixor.com/api/icons?i=datagrip,rider,zed,vscodium,neovim,sublime,git,gitbash,github,githubactions,codeberg,balenaetcher,penpot,ghostty,librepcb)](https://github.com/syvixor/skills-icons)
-
-### Interests
-[![Skills](https://skills.syvixor.com/api/icons?i=bash,powershell,linux,windows,arduino,raspberrypi)](https://github.com/syvixor/skills-icons)
-
-### Other
-[![Skills](https://skills.syvixor.com/api/icons?i=markdown,assembly,nixos,docker,obsidian,vercel,stackoverflow,reddit,telegram,obs,codeforces,leetcode,polars,curl,gitea)](https://github.com/syvixor/skills-icons)
+### I plan to study it further
+[![Skills](https://skills.syvixor.com/api/icons?i=assembly,nixos,docker,bash,powershell,linux,windows,arduino,freecad,esp32)](https://github.com/syvixor/skills-icons)
 
 ---
 
