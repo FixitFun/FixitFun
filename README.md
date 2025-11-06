@@ -36,7 +36,7 @@ My favorite language is **Rust**, and my favorite scripting language is **Lua**.
 [![Skills](https://skills.syvixor.com/api/icons?i=datagrip,rider,zed,vscodium,neovim,sublime,git,gitbash,gitea,github,githubactions,codeberg,aseprite,blender,godot,unity,nginx,postgresql,redis,html,css3,obsidian,vercel,stackoverflow,reddit,telegram,obs,codeforces,markdown,balenaetcher,penpot,ghostty,archlinux)](https://github.com/syvixor/skills-icons)
 
 ### I plan to study it further
-[![Skills](https://skills.syvixor.com/api/icons?i=assembly,nixos,docker,bash,powershell,linux,windows,arduino,freecad,esp32)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=assembly,nixos,docker,bash,powershell,zshell,linux,windows,arduino,freecad,esp32)](https://github.com/syvixor/skills-icons)
 
 ---
 
