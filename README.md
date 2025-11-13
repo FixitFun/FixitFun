@@ -12,7 +12,7 @@
 
 ### :shipit: Let's goooo
 
-I’m passionate about **systems programming, game development, robotics, and IoT** — I’m building a technology stack that lets me work across multiple platforms.
+I’m passionate about **Web servers and microservices, systems programming, game development, robotics, and IoT** — I’m building a technology stack that lets me work across multiple platforms.
 
 I plan to expand to other engines and platforms in the future (for example, Godot).
 
