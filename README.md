@@ -30,13 +30,13 @@ My favorite language is **Rust**, and my favorite scripting language is **Lua**.
 </div> 
 
 ### Programming languages 
-[![Skills](https://skills.syvixor.com/api/icons?i=go,rust,lua,c,csharp,python)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=go,rust,lua,c,matlab,python)](https://github.com/syvixor/skills-icons)
 
 ### I had experience && I actively use it
-[![Skills](https://skills.syvixor.com/api/icons?i=datagrip,goland,zed,vscode,neovim,git,gitbash,gitea,github,githubactions,codeberg,nginx,postgresql,sql,redis,html,css3,obsidian,vercel,stackoverflow,reddit,telegram,obs,codeforces,markdown,balenaetcher,penpot,ghostty,archlinux)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=datagrip,goland,zed,neovim,git,gitbash,gitea,github,githubactions,codeberg,nginx,postgresql,sql,redis,html,css3,obsidian,vercel,stackoverflow,reddit,telegram,obs,codeforces,markdown,balenaetcher,penpot,ghostty,nixos)](https://github.com/syvixor/skills-icons)
 
 ### I plan to study it further
-[![Skills](https://skills.syvixor.com/api/icons?i=assembly,nixos,docker,bash,powershell,zshell,linux,windows,arduino,freecad,esp32)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=assembly,docker,bash,powershell,zshell,linux,windows,arduino,freecad,esp32)](https://github.com/syvixor/skills-icons)
 
 ---
 
