@@ -30,7 +30,8 @@ My favorite language is **Rust**, and my favorite scripting language is **Lua**.
 </div> 
 
 ### Programming languages 
-[![Skills](https://skills.syvixor.com/api/icons?i=rust)](https://github.com/syvixor/skills-icons)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,go,c,lua,cs,python,holyc)
+
 
 ### I had experience && I actively use it
 [![Skills](https://skills.syvixor.com/api/icons?i=zed,neovim,git,gitbash,gitea,github,githubactions,codeberg,html,css3,obsidian,vercel,stackoverflow,reddit,telegram,obs,codeforces,markdown,balenaetcher,penpot,zshell,ghostty,kitty,nixos)](https://github.com/syvixor/skills-icons)
