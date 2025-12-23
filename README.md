@@ -30,11 +30,11 @@ My favorite language is **Rust**, and my favorite scripting language is **Lua**.
 </div> 
 
 ### Programming languages 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,go,c,lua,cs,python,holyc)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust)
 
 
 ### I had experience && I actively use it
-[![Skills](https://skills.syvixor.com/api/icons?i=zed,neovim,git,gitbash,gitea,github,githubactions,codeberg,html,css3,obsidian,vercel,stackoverflow,reddit,telegram,obs,codeforces,markdown,balenaetcher,penpot,zshell,ghostty,kitty,nixos)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=zed,neovim,git,gitbash,gitea,github,githubactions,codeberg,html,css3,sql,obsidian,vercel,stackoverflow,reddit,telegram,obs,codeforces,markdown,balenaetcher,penpot,zshell,ghostty,kitty,nixos)](https://github.com/syvixor/skills-icons)
 
 ### I plan to study it further
-[![Skills](https://skills.syvixor.com/api/icons?i=assembly,docker,bash,powershell,linux,windows,arduino,freecad,esp32,go,lua,c,csharp,python,rider,datagrip,goland,clion,nginx,postgresql,sql,redis,)](https://github.com/syvixor/skills-icons)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=assembly,docker,bash,powershell,linux,windows,arduino,freecad,rustrover,rider,datagrip,goland,clion,nginx,postgresql,supabase,redis,go,lua,python,c,cs,holyc)
