@@ -37,4 +37,4 @@ My favorite language is **Rust**, and my favorite scripting language is **Lua**.
 ![Skills](https://go-skill-icons.vercel.app/api/icons?i=zed,helix,vscode,git,gitbash,gitea,github,githubactions,codeberg,html,css,postgresql,supabase,markdown,bash,kitty,nixos)
 
 ### I plan to study it further
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=assembly,docker,powershell,linux,windows,aseprite,blender,audacity,godot,rustrover,rider,datagrip,goland,clion,nginx,postgresql,supabase,redis,zig,c,holyc,lua,julia,elixir,swift)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=assembly,docker,powershell,linux,windows,aseprite,blender,audacity,godot,rustrover,rider,datagrip,goland,clion,nginx,postgresql,supabase,redis,zig,c,holyc,go,lua,julia,elixir,swift)
