@@ -12,11 +12,16 @@
 
 ### :shipit: Let's goooo
 
-I'm currently passionate about developing the Rust programming language. But in the future, I'd like to get involved in **microservices, systems programming, game development, robotics, and the IoT**.I'm building a tech stack that allows me to work across multiple platforms.
+**General** 
 
-I plan to expand to other engines and platforms in the future (for example, Godot).
+Currently, I am passionate about the Rust programming language. 
+But in the future, I'd like to do **system programming, game development, robotics, IoT**. My favorite language is **Rust** (for now), and my favorite scripting language is **Lua**.
 
-My favorite language is **Rust**, and my favorite scripting language is **Lua**.
+**Entertainment & Extras**
+1. Mod Development in Minecraft
+2. GPU shader development (Slang)
+3. VR
+4. S&box
 
 **Contacts**
 - Site: [https://my-website-beta-gilt-80.vercel.app/]
@@ -34,7 +39,10 @@ My favorite language is **Rust**, and my favorite scripting language is **Lua**.
 
 
 ### I had experience && I actively use it
-![Skills](https://go-skill-icons.vercel.app/api/icons?i=zed,helix,vscode,git,gitbash,github,githubactions,codeberg,html,css,postgresql,supabase,markdown,kitty,nixos)
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=zed,helix,vscode,git,gitbash,github,codeberg,html,css,postgresql,supabase,markdown,kitty,nixos)
 
 ### I plan to study it further
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=assembly,docker,kubernetes,linux,bash,aseprite,blender,audacity,godot,steam,rustrover,datagrip,goland,clion,nginx,postgresql,supabase,redis,c,holyc,go,java,lua,julia,elixir,swift)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,linux,bash,aseprite,blender,audacity,godot,unity,steam,rustrover,datagrip,goland,clion,nginx,postgresql,supabase,redis,c,go,java,lua,julia,)
+
+### Experiments and interest
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,holyc,assembly,elixir,swift)
