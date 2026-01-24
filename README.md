@@ -15,7 +15,7 @@
 **General** 
 
 Currently, I am passionate about the Rust programming language. 
-But in the future, I'd like to do **system programming, game development, robotics, IoT**. My favorite language is **Rust** (for now), and my favorite scripting language is **Lua**(Teal).
+But in the future, I'd like to do **system programming, game development, robotics, IoT**. My favorite language is **Rust** (for now), and my favorite scripting language is **Lua** (Teal).
 
 **Entertainment & Extras**
 1. Mod Development in Minecraft
