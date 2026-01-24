@@ -21,7 +21,6 @@ But in the future, I'd like to do **system programming, game development, roboti
 1. Mod Development in Minecraft
 2. GPU shader development (Slang)
 3. VR
-4. S&box
 
 **Contacts**
 - Site: [https://my-website-beta-gilt-80.vercel.app/]
