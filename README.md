@@ -18,7 +18,7 @@ Currently, I am passionate about the Rust programming language.
 But in the future, I'd like to do **system programming, game development, robotics, IoT**. My favorite language is **Rust** (for now), and my favorite scripting language is **Lua** (Teal).
 
 **Entertainment & Extras**
-1. Mod Development (ULTRAKILL & Minecraft)
+1.
 2. GPU shader development (Slang)
 3. VR
 
@@ -41,7 +41,7 @@ But in the future, I'd like to do **system programming, game development, roboti
 ![Skills](https://go-skill-icons.vercel.app/api/icons?i=zed,helix,vscode,git,gitbash,github,codeberg,html,css,postgresql,supabase,markdown,kitty,nixos)
 
 ### I plan to study it further
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,linux,bash,aseprite,blender,audacity,godot,unity,steam,rustrover,datagrip,clion,postgresql,supabase,redis,c,python,lua,)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,linux,bash,aseprite,blender,audacity,godot,unity,steam,rustrover,datagrip,clion,postgresql,supabase,redis,c,cs,lua,)
 
 ### Experiments and interest
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=julia,holyc,assembly,elixir,swift)
