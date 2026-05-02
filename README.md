@@ -41,7 +41,7 @@ But in the future, I'd like to do **system programming, game development, roboti
 ![Skills](https://go-skill-icons.vercel.app/api/icons?i=zed,helix,vscode,git,gitbash,github,codeberg,html,css,postgresql,supabase,markdown,kitty,nixos)
 
 ### I plan to study it further
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,linux,bash,aseprite,blender,audacity,godot,unity,steam,rustrover,datagrip,clion,postgresql,supabase,redis,c,cs,lua,py)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,linux,bash,aseprite,blender,audacity,godot,unity,steam,rustrover,datagrip,clion,postgresql,supabase,redis,c,cs,lua,py,ruby,)
 
 ### Experiments and interest
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=julia,holyc,assembly,elixir,swift)
