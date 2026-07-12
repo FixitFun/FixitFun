@@ -36,12 +36,11 @@ But in the future, I'd like to do **system programming, game development, roboti
 ### Programming languages 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=go)
 
-
 ### I had experience && I actively use it
-![Skills](https://go-skill-icons.vercel.app/api/icons?i=zed,helix,git,gitbash,github,codeberg,html,css,postgresql,supabase,markdown,kitty,nixos)
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=zed,helix,git,gitbash,github,codeberg,html,css,postgresql,markdown,kitty,nixos)
 
 ### I plan to study it further
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,linux,bash,blender,ros,goland,rustrover,datagrip,clion,postgresql,redis,rust,py,cpp,lua,)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,linux,bash,blender,ros,goland,rustrover,datagrip,clion,redis,rust,py,cpp,lua)
 
 ### Experiments and interest
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=julia,holyc,assembly,elixir,swift)
