@@ -15,7 +15,7 @@
 **General** 
 
 Currently, I am passionate about the GO programming language. 
-But in the future, I'd like to do **Backend & Microservices, Game Development, Robotics Engineering,**. My favorite language is **Rust** (for now), and my favorite scripting language is **Lua**.
+But in the future, I'd like to do **Backend & Microservices, Game Development, Robotics Engineering**. My favorite language is **Rust** (for now), and my favorite scripting language is **Lua**.
 
 **Contacts**
 
